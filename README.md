@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Generative AI and LLMs**
 
-- 🌱 I’m currently learning **RAG, Generative AI**
+- 🌱 I’m currently learning **RAG**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dhanyabahadur/project_notebooks](https://github.com/Dhanyabahadur/project_notebooks)
 
